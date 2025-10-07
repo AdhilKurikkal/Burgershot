@@ -1,13 +1,13 @@
 ![Burgershot Logo](assets/images/generated-image-2_transparent.png)
 
 
-🍔 Burgershot
+#🍔 Burgershot
 
 Burgershot is a modern Flutter application for seamless burger ordering and food delivery. Built with a clean, scalable architecture and powered by Riverpod for state management, this app demonstrates robust best practices for cross‑platform mobile development.
 
 
 
-🚀 Features
+##🚀 Features
 
 User authentication & onboarding
 
@@ -21,7 +21,7 @@ Clean feature-first folder structure, easy to scale and maintain
 
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Flutter (Dart)
 
