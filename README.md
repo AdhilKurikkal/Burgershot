@@ -1,4 +1,4 @@
-![Burgershot Logo](assets\images\generated-image-2_transparent.png
+![Burgershot Logo](assets/images/generated-image-2_transparent.png
 
 
 🍔 Burgershot
